@@ -30,3 +30,4 @@ If you want to see how to implement this yourself, take a look at the [.travis.y
 * variation to do a `phantomjs` - which would be faster
 * variation to do an API interface to use multiple browser profiles at once - which would be awesome
 
+Make a change.
